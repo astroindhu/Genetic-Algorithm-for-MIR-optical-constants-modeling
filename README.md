@@ -2,7 +2,7 @@
 
 This is a Genetic Algorithm driven algorithm which used the fresnal and dispersion model for modelling wavelength dependent mid-infrared optical constants of glasses. This code can be extended to any isotropic minerals. 
 
-The manuscript regarding this work is currently under preparation for publication. The collaborators of this research includes
+The manuscript regarding this work is currently under preparation for publication. The authors of this research include
 
 1) Indhu Varatharajan, Department of Geosciences, Stony Brook University, Stony Brook, NY11794 
 
